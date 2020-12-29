@@ -12,7 +12,7 @@
 <a href="https://www.codefactor.io/repository/github/A187ID/Andrix1"><img title="Rating" src="https://www.codefactor.io/repository/github/A187ID/Andrix1/badge/main"></a>
 </p>
 <p align="center">
-<a href="https://github.com/A187ID/AR15BOT/followers"><img title="Followers" src="https://img.shields.io/github/followers/A187ID?color=blue&style=flat-square"></a>
+<a href="https://github.com/A187ID/Andrix1/followers"><img title="Followers" src="https://img.shields.io/github/followers/A187ID?color=blue&style=flat-square"></a>
 <a href="https://github.com/A187ID/AR15BOT/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/A187ID/AR15BOT?color=red&style=flat-square"></a>
 <a href="https://github.com/A187ID/AR15BOT/network/members"><img title="Forks" src="https://img.shields.io/github/forks/A187ID/AR15BOT?color=red&style=flat-square"></a>
 <a href="https://github.com/A187ID/AR15BOT/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/A187ID/AR15BOT?label=Watchers&color=blue&style=flat-square"></a>
@@ -59,7 +59,7 @@ Script ini di modifikasi sama saya sendiri Aris187 ID.
 
 ## FEATURES  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="29px">
 
-| Mr.B34`N       |                   Feature        |
+| Mr.B34`N  X1   |                   Feature        |
 | :------------: | :------------------------------: |
 |       ✅       | Sticker Creator                  |
 |       ✅       | Nulis                            |
@@ -99,20 +99,20 @@ Script ini di modifikasi sama saya sendiri Aris187 ID.
 Ket: Aktiv 24 jam
 
 ## DONASI Telkomsel<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/coin.gif" width="29px">
-* [`Donasi  Mr.B34N X1'  ](https://saweria.co/aris187id)
+* [`Donasi  Mr.B34N X1'  ](https://wa.me/+6282149520329)
 
 
-## SOSIAL MEDIA ADMIN <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/powerup.gif" width="29px">
+## WhatsApp <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/powerup.gif" width="29px">
 
-* [`Youtube Admin`](https://www.youtube.com/channel/UCGYLWtyT9IADYNUiK0uZiGg)
+
 
 * [`WhatsApp Admin `](https://wa.me/+6282149520329)
 ## THANKS TO <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" width="60px">
 
-* [`fdciabdul`](https://github.com/fdciabdul/termux-whatsapp-bot)
 
-* [`ArugaZ`](https://github.com/ArugaZ/whatsapp-bot)
-* [`MhankBarBar`](https://github.com/MhankBarBar/whatsapp-bot)
-* [`Alfbot`](https://github.com/alfiansx/alfbot)
+
+* [`lucifer X1`]
+
+
 <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Gameplay.gif" alt="Mario Game" width="600" />
 
